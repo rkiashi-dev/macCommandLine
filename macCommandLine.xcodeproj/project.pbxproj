@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		3CB3D22426B4E55200A7ADC8 /* macCommandLine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = macCommandLine; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CB3D22726B4E55200A7ADC8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3CB3D22E26B4E5ED00A7ADC8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		3CB3D21B26B4E55100A7ADC8 = {
 			isa = PBXGroup;
 			children = (
+				3CB3D22E26B4E5ED00A7ADC8 /* .gitignore */,
 				3CB3D22626B4E55200A7ADC8 /* macCommandLine */,
 				3CB3D22526B4E55200A7ADC8 /* Products */,
 			);
